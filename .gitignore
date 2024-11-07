@@ -13,6 +13,8 @@ aws-exports.js
 awsconfiguration.json
 amplify-build-config.json
 amplify-gradle-config.json
+amplify-cli
+amplify-pkg-win-x64.exe
 amplifytools.xcconfig
 .secret-*
 **.sample
